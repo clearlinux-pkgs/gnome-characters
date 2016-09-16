@@ -1,0 +1,295 @@
+3.20.1
+===
+
+- Update AppData
+- Fix regression in multi-keyword search with search provider (bug#747061)
+
+New And Updated Translations
+============================
+Arash Mousavi (fa)
+Cheng-Chia Tseng (zh_TW)
+Daniel Korostil (uk)
+Jeff Bai (zh_CN)
+
+3.20.0
+===
+
+New And Updated Translations
+============================
+Ask Hjorth Larsen (da)
+Inaki Larranaga Murgoitio (eu)
+Kris Thomsen (da)
+Milo Casagrande (it)
+Stas Solovey (ru)
+
+3.19.92
+===
+
+- Add additional keywords to .desktop (bug#762576)
+- Disable subtitle in the headerbar (bug#763177)
+- Remove redundant horizontal padding in filter menu (bug#763233)
+
+New And Updated Translations
+============================
+Alexandre Franke (fr)
+Anders Jonsson (sv)
+Artur de Aquino Morais (pt_BR)
+Aurimas Černius (lt)
+Balázs Úr (hu)
+Baurzhan Muftakhidinov (kk)
+Cédric Valmary (oc)
+Claude Paroz (fr)
+Daniel Mustieles (es)
+Dušan Kazik (sk)
+Efstathios Iosifidis (el)
+Fabio Tomat (fur)
+Fran Dieguez (gl)
+hanniedu (nl)
+Jiri Grönroos (fi)
+Kjartan Maraas (nb)
+Marek Černocký (cs)
+Mario Blättermann (de)
+Matej Urbančič (sl)
+Milo Casagrande (it)
+Piotr Drąg (pl)
+Rūdolfs Mazurs (lv)
+Seong-ho Cho (ko)
+Yosef Or Boczko (he)
+Марко М. Костић (sr)
+Мирослав Николић (sr) (sr@latin)
+
+3.19.90
+===
+
+- Make "copy character" work again with newer GTK+
+- Make search provider work again with the new internal search API
+- Hide missing characters by default (bug#744591)
+- Update appdata to 0.7+ format and add missing data
+- The search provider now only shows prefix matches (bug#757368)
+- Visual fixes for category list (bug#761793)
+- Visual fixes for font list (bug#748717)
+
+New And Updated Translations
+============================
+Aurimas Černius (lt)
+Balázs Meskó (hu)
+Bernd Homuth (de)
+Daniel Mustieles (es)
+Dušan Kazik (sk)
+hanniedu (nl)
+Jiri Grönroos (fi)
+Jiro Matsuzawa (ja)
+Kjartan Maraas (nb)
+Marek Černocký (cs)
+Mario Blättermann (de)
+Matej Urbančič (sl)
+Paul Seyfert (de)
+Pedro Albuquerque (pt)
+Piotr Drąg (de)
+Piotr Drąg (pl)
+Rafael Fontenelle (pt_BR)
+Rūdolfs Mazurs (lv)
+Stas Solovey (ru)
+Tom Tryfonidis (el)
+
+3.19.3
+===
+
+- Add visual feedback for invisible characters (bug#757815)
+- Rework search function to feed more results when the user scrolls
+  the list to the bottom (bug#757523)
+- Standardize app menu
+- Disable search provider by default
+- Add notification for clipboard access (bug#755212)
+- Switch away from gnome-autogen.sh
+
+New And Updated Translations
+============================
+Aurimas Černius (lt)
+Balázs Meskó (hu)
+Baurzhan Muftakhidinov (kk)
+Cédric Valmary (oc)
+Daniel Mustieles (es)
+Daniel Șerbănescu (ro)
+Dušan Kazik (sk)
+Efstathios Iosifidis (el)
+Fabio Tomat (fur)
+Inaki Larranaga Murgoitio (eu)
+Jiri Grönroos (fi)
+Kalev Lember (ar)
+Kjartan Maraas (nb)
+Marek Černoch (cs)
+Pedro Albuquerque (pt)
+Sebastian Rasmussen (sv)
+Sveinn í Felli (is)
+Yosef Or Boczko (he)
+
+3.18.0
+===
+
+- Update tables for "See Also" list to Unicode 8.0.0
+
+New And Updated Translations
+============================
+Anders Jonsson (sv)
+Arash Mousavi (fa)
+Benjamin Steinwender (de)
+Claude Paroz (fr)
+Dušan Kazik (sk)
+Kjartan Maraas (nb)
+Kris Thomsen (da)
+Milo Casagrande (it)
+Piotr Drąg (pl)
+Rafael Fontenelle (pt_BR)
+Seong-ho Cho (ko)
+Stas Solovey (ru)
+Timo Jyrinki (fi)
+
+3.17.91
+===
+
+- Fix font filtering logic
+- Close font filtering popover after selection
+- Fix character name display for CJK ideographs
+
+New And Updated Translations
+============================
+A S Alam (pa)
+Chao-Hsiung Liao (zh_TW)
+Christian Kirbach (de)
+Daiki Ueno (ja)
+Piotr Drąg (pl)
+Safa Alfulaij (ar)
+Tom Tryfonidis (el)
+
+3.17.90
+===
+
+- Bug 753113 - make fails without gperf
+
+New And Updated Translations
+============================
+Andika Triwidada (id)
+Aurimas Černius (lt)
+Daiki Ueno (ja)
+Fran Dieguez (gl)
+Kjartan Maraas (nb)
+Kristjan SCHMIDT (eo)
+Muhammet Kara (tr)
+Pedro Albuquerque (pt)
+
+3.17.4.1
+===
+
+- Bug 752954 - gnome-characters 3.17.4 no longer installs appdata
+- Install all hicolor icons under $datadir/icons/hicolor
+
+3.17.4
+===
+
+- Update Unicode standard to 8.0.0
+- Bug 752607 - Update filter menu layout according to lastest mockup
+- Bug 743643 - Lacks scripts other than Latin
+- Bug 748717 - Filter by font - layout and visual fixes
+- Bug 748124 - build failure
+- Bug 747398 - Use the ellipsis character
+- Bug 747061 - Search sometimes has poor results.
+
+New And Updated Translations
+============================
+Alexandre Franke (fr)
+Balázs Úr (hu)
+Cédric Valmary (oc)
+Daniel Korostil (uk)
+Daniel Mustieles (es)
+Dean Chen (zh_CN)
+Dušan Kazik (sk)
+Enrico Nicoletto (pt_BR)
+GNOME Translation Robot (pt_BR)
+Irene Sáez (es)
+Jordi Mas (ca)
+Marek Černocký (cs)
+Milo Casagrande (it)
+Piotr Drąg (pl)
+Yosef Or Boczko (he)
+
+3.16.0
+===
+
+New And Updated Translations
+============================
+Cheng-Chia Tseng (zh_TW)
+Daniel Mustieles (es)
+
+3.15.92
+===
+
+- Bug 745508 - Two fixes to the search provider
+- Fix non-BMP character display
+- Make search keyword match against hex code point
+- Add key navigation with cursor keys (without modifiers)
+
+New And Updated Translations
+============================
+Balázs Úr (hu)
+Daiki Ueno (ja)
+Dušan Kazik (sk)
+Marek Černocký (cs)
+Piotr Drąg (pl)
+Yosef Or Boczko (he)
+
+3.15.91.1
+===
+
+- Restore the resizing behavior, which was broken in the last release
+
+3.15.91
+===
+
+- Bug 744336 - Add a unique application icon
+- Bug 744855 - Search provider
+- Add more characters to "Pictures" section
+- Add more characters to "See Also" list, by using Unicode character
+  compositions
+
+New And Updated Translations
+============================
+Balázs Úr (hu)
+Cheng-Chia Tseng (zh_TW)
+Matej Urbančič (sl)
+Yosef Or Boczko (he)
+
+3.15.90
+===
+
+- Support character filtering by font
+- Bundle Gnulib libunistring modules to provide Unicode 7.0.0 support,
+  which will be compiled in only when the system libunistring is < 0.9.5
+- Bug 740260 - Emoticons section - characters are cut off at the bottom
+- Bug 744331 - Don't default to recently used when it is empty
+- Bug 744479 - Unicode text should be selectable
+
+New And Updated Translations
+============================
+Balázs Úr (hu)
+Christian Kirbach (de)
+Daniel Mustieles (es)
+Enrico Nicoletto (pt_BR)
+Marek Černocký (cs)
+Мирослав Николић (sr) (sr@latin)
+
+3.15.2
+===
+
+- Initial release
+- Bug 740189 - #!/bin/bash in autogen.sh
+- Bug 740257 - Characters scale when the window is resized
+- Bug 740258 - Character dialogs should use a standard X button to close
+- Bug 740259 - Background color doesn't fill the entire character pane
+
+New And Updated Translations
+============================
+- Dimitris Spingos (el)
+- Yosef Or Boczko (he)
+- Enrico Nicoletto (pt_BR)
+- Мирослав Николић (sr)
