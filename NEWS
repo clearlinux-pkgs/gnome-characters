@@ -1,15 +1,88 @@
-3.20.1
+3.22.0
 ===
 
-- Update AppData
-- Fix regression in multi-keyword search with search provider (bug#747061)
+- build: Fix appdata installation
+- build: Don't run intltoolize in autogen.sh
+- build: Regenerate uninames.h
+- Add more options to XGETTEXT_OPTIONS in po/Makevars
 
 New And Updated Translations
 ============================
+Alexandre Franke (fr)
+Andika Triwidada (id)
 Arash Mousavi (fa)
+Ask Hjorth Larsen (da)
+Aurimas Černius (lt)
+Baurzhan Muftakhidinov (kk)
+Bruce Cowan (en_GB)
+Daniel Korostil (uk)
+Daniel Mustieles (es)
+Dušan Kazik (sk)
+Fabio Tomat (fur)
+Fran Dieguez (gl)
+Hannie Dumoleyn (nl)
+Inaki Larranaga Murgoitio (eu)
+Jeremy Bicha (es)
+Jiri Grönroos (fi)
+Mario Blättermann (de)
+Milo Casagrande (it)
+Rūdolfs Mazurs (lv)
+Seong-ho Cho (ko)
+Stas Solovey (ru)
+Tiago Santos (pt)
+Tom Tryfonidis (el)
+Yosef Or Boczko (he)
+Мирослав Николић (sr) (sr@latin)
+
+3.21.91.1
+===
+
+- Remove intltool markers from .appdata and .desktop
+- Update tables for "See Also" list to Unicode 9.0.0
+
+New And Updated Translations
+============================
+Anders Jonsson (sv)
+Balázs Úr (hu)
+Enrico Nicoletto (pt_BR)
+Marek Cernocky (cs)
+Matej Urbančič (sl)
+Piotr Drąg (pl)
+
+3.21.91
+===
+
+- Update Unicode standard to 9.0.0
+- characterList: Support drag and drop of characters (bug#764757)
+
+New And Updated Translations
+============================
+Alexandre Franke (fr)
+Anders Jonsson (sv)
+Andika Triwidada (id)
+Arash Mousavi (fa)
+Aurimas Černius (lt)
+Balázs Úr (hu)
+Cédric Valmary (oc)
 Cheng-Chia Tseng (zh_TW)
 Daniel Korostil (uk)
+Daniel Mustieles (es)
+Dušan Kazik (sk)
+Fabio Tomat (fur)
+Fran Dieguez (gl)
 Jeff Bai (zh_CN)
+Jiri Grönroos (fi)
+Khaled Hosny (ar)
+Lucas Capalbo (es)
+Marek Cernocky (cs)
+Mario Blättermann (de)
+Matej Urbančič (sl)
+Piotr Drąg (ca) (es) (gl) (ln) (sl) (sr@latin)
+Piotr Drąg (pl)
+René Manassé GALEKWA (ln)
+Sveinn í Felli (is)
+Tiago Santos (pt)
+Yosef Or Boczko (he)
 
 3.20.0
 ===
