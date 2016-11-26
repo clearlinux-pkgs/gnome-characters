@@ -4,7 +4,7 @@
 #
 Name     : gnome-characters
 Version  : 3.22.0
-Release  : 3
+Release  : 4
 URL      : http://ftp.gnome.org/pub/gnome/sources/gnome-characters/3.22/gnome-characters-3.22.0.tar.xz
 Source0  : http://ftp.gnome.org/pub/gnome/sources/gnome-characters/3.22/gnome-characters-3.22.0.tar.xz
 Summary  : No detailed summary available
