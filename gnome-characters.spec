@@ -4,7 +4,7 @@
 #
 Name     : gnome-characters
 Version  : 3.22.0
-Release  : 5
+Release  : 6
 URL      : http://ftp.gnome.org/pub/gnome/sources/gnome-characters/3.22/gnome-characters-3.22.0.tar.xz
 Source0  : http://ftp.gnome.org/pub/gnome/sources/gnome-characters/3.22/gnome-characters-3.22.0.tar.xz
 Summary  : No detailed summary available
@@ -70,12 +70,12 @@ locales components for the gnome-characters package.
 
 %build
 export LANG=C
-export SOURCE_DATE_EPOCH=1491316723
+export SOURCE_DATE_EPOCH=1491683901
 %configure --disable-static
 make V=1  %{?_smp_mflags}
 
 %install
-export SOURCE_DATE_EPOCH=1491316723
+export SOURCE_DATE_EPOCH=1491683901
 rm -rf %{buildroot}
 %make_install
 %find_lang org.gnome.Characters
