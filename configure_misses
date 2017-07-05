@@ -1,0 +1,4 @@
+Configure miss: whether included libunistring is requested
+Configure miss: libunistring
+Configure miss: whether stdint.h predates C++11
+Configure miss: appstream-util
