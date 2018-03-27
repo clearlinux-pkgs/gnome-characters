@@ -4,7 +4,7 @@
 #
 Name     : gnome-characters
 Version  : 3.28.0
-Release  : 13
+Release  : 14
 URL      : https://download.gnome.org/sources/gnome-characters/3.28/gnome-characters-3.28.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-characters/3.28/gnome-characters-3.28.0.tar.xz
 Summary  : No detailed summary available
@@ -76,12 +76,12 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1522185389
+export SOURCE_DATE_EPOCH=1522187296
 %configure --disable-static
 make  %{?_smp_mflags}
 
 %install
-export SOURCE_DATE_EPOCH=1522185389
+export SOURCE_DATE_EPOCH=1522187296
 rm -rf %{buildroot}
 %make_install
 %find_lang org.gnome.Characters
