@@ -4,7 +4,7 @@
 #
 Name     : gnome-characters
 Version  : 3.28.2
-Release  : 18
+Release  : 19
 URL      : https://download.gnome.org/sources/gnome-characters/3.28/gnome-characters-3.28.2.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-characters/3.28/gnome-characters-3.28.2.tar.xz
 Summary  : No detailed summary available
