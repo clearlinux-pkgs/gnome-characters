@@ -1,7 +1,11 @@
-3.32.1
+3.34.0
 ===
 
-- searchProvider: Fix deprecation fixes
+- searchProvider: Fix deprecation fixes [!31]
+- Improves search entry and exit behaviour [!35]
+- Fix deprecation warnings [!36]
+- Fix single instance application mode [!42]
+- Snap and flatpak fixes [!37, !40]
 - Translation updates
 
 3.32.0
