@@ -4,7 +4,7 @@
 #
 Name     : gnome-characters
 Version  : 3.34.0
-Release  : 27
+Release  : 28
 URL      : https://download.gnome.org/sources/gnome-characters/3.34/gnome-characters-3.34.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-characters/3.34/gnome-characters-3.34.0.tar.xz
 Summary  : No detailed summary available
