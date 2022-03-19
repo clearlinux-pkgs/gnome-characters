@@ -1,3 +1,55 @@
+42.0
+===========
+* Port to GTK4 / libadwaita
+* Fixes & improvements to the search provider
+* Translation updates
+
+42.rc
+===========
+* Fix reflowing in size_allocate() (Alexander Mikhaylenko)
+* Translation updates:
+ - Bulgarian
+ - Croatian
+ - Danish
+ - Finnish
+ - French
+ - Friulian
+ - Korean
+ - Lithuanian
+ - Persian
+ - Polish
+ - Swedish
+
+42.beta
+===========
+
+* Fixed search provider issues
+* Search provider now displays the characters as well
+
+42.alpha
+===========
+
+Characters 42.alpha comes with a port to GTK4 and libadwaita. It has
+gained support for the new dark style preference via libadwaita.
+
+* Translation updates:
+ - Basque
+ - Croatian
+ - Friulian
+ - Galician
+ - Hebrew
+ - Icelandic
+ - Indonesian
+ - Latvian
+ - Lithuanian
+ - Occitan (post 1500)
+ - Portuguese
+ - Portuguese (Brazil)
+ - Russian
+ - Slovak
+ - Spanish
+ - Ukrainian
+
 41.0
 =======
 
