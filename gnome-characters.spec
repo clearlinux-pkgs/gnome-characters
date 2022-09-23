@@ -4,7 +4,7 @@
 #
 Name     : gnome-characters
 Version  : 43.0
-Release  : 33
+Release  : 34
 URL      : https://download.gnome.org/sources/gnome-characters/43/gnome-characters-43.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-characters/43/gnome-characters-43.0.tar.xz
 Summary  : No detailed summary available
