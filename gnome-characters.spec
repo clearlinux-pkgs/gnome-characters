@@ -5,7 +5,7 @@
 #
 Name     : gnome-characters
 Version  : 44.0
-Release  : 38
+Release  : 39
 URL      : https://download.gnome.org/sources/gnome-characters/44/gnome-characters-44.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-characters/44/gnome-characters-44.0.tar.xz
 Summary  : No detailed summary available
@@ -83,7 +83,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1679686931
+export SOURCE_DATE_EPOCH=1680027185
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
