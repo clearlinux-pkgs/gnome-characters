@@ -1,3 +1,4 @@
-44.0
+45.0
 appstream-glib
 pkgconfig(libadwaita-1)
+xvfb-run
